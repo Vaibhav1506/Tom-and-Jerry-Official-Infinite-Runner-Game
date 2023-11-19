@@ -1,4 +1,4 @@
-A TOM AND JERRY INFINITE RUNNEER GAME made in Javascript featuring the 2 official leading characters
+A TOM AND JERRY INFINITE RUNNER GAME made in Javascript featuring the 2 official leading characters
 
 How to play-
 
