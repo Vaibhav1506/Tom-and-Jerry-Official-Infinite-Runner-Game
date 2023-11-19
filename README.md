@@ -1,7 +1,4 @@
-The official TOM AND JERRY INFINITE RUNNEER GAME.
-The cartoon that took over the world for 81 years and even now.
-The famous cat & mouse duo's friendship existing from 1940 to present.
-They are back ...
+A TOM AND JERRY INFINITE RUNNEER GAME made in Javascript.
 
 How to play-
 
