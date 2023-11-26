@@ -26,4 +26,4 @@ The Tom and Jerry game made in Javascript language featuring the 2 official lead
 6) The game will begin and you have to just press "Space" key so that tom can jump over obstacles and catch jerry (it is similar to chrome dino game).
 7) If the above steps don't work you can go directly to this link [here](https://vaibhav1506.github.io/Tom-and-Jerry-Official-Infinite-Runner-Game/).
 
-### Note:- If you notice any flaws in my game plz contact me at my email bvaibhav1506@gmail.com.
+### Note:- If you notice any discrepencies in my game plz contact me at my email bvaibhav1506@gmail.com.
