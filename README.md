@@ -2,7 +2,7 @@
 The Tom and Jerry game made in Javascript language featuring the 2 official leading characters in the Tom and Jerry Franchise.
 
 ## Code Information
-1) Code Language: [Javascript](https://en.wikipedia.org/wiki/JavaScript) (100%).
+1) Code Language: [Javascript](https://en.wikipedia.org/wiki/JavaScript) (99.5%), [HTML](https://en.wikipedia.org/wiki/HTML) (0.5%).
 2) Created Using: [p5.js](https://p5js.org/).
 3) Author : [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 4) Date Created: 12th September, 2021.
