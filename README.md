@@ -7,7 +7,8 @@ The Tom and Jerry game made in Javascript language featuring the 2 official lead
 3) Author : [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 4) Date Created: 12th September, 2021.
 5) Date Published (on [Github](https://github.com/)): 7th November, 2021.
-6) Number of contributor(s): 1.
+6) Last Updated: 3rd January 2024.
+7) Number of contributor(s): 1.
 8) License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
 
 ## Requirements
