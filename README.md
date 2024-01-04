@@ -1,15 +1,16 @@
 # THE TOM AND JERRY INFINITE RUNNER GAME
 The Tom and Jerry game made in Javascript language featuring the 2 official leading characters in the Tom and Jerry Franchise.
 
-## Code Information
+## Repository Information
 1) Code Language: [Javascript](https://en.wikipedia.org/wiki/JavaScript) (99.5%), [HTML](https://en.wikipedia.org/wiki/HTML) (0.5%).
 2) Created Using: [p5.js](https://p5js.org/).
 3) Author : [Vaibhav Bakshi](https://github.com/Vaibhav1506).
-4) Date Created: 12th September, 2021.
-5) Date Published (on [Github](https://github.com/)): 7th November, 2021.
-6) Last Updated: 3rd January 2024.
-7) Number of contributor(s): 1.
-8) License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
+4) Repository Status : Completed [Inactive].
+5) Date Created: 12th September, 2021.
+6) Date Published (on [Github](https://github.com/)): 7th November, 2021.
+7) Last Updated: 4th January 2024.
+8) Number of contributor(s): 1.
+9) License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
 
 ## Requirements
 1) Windows 7 or higher.
