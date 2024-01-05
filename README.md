@@ -32,4 +32,4 @@ If the above steps don't work you can go directly to this link [here](https://va
 
 ### Notes:- 
 - If you notice any discrepencies in my game plz contact me at my email bvaibhav1506@gmail.com.
-- Since this project is completed it won't be receiving updates or any new additions. However if you do have any doubts feel free to contact me for the same.
+- Since this repository is completed it won't be receiving updates or any new additions. However if you do have any doubts feel free to contact me for the same.
