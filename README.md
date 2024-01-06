@@ -31,5 +31,5 @@ The Tom and Jerry game made in Javascript language featuring the 2 official lead
 If the above steps don't work you can go directly to this link [here](https://vaibhav1506.github.io/Tom-and-Jerry-Official-Infinite-Runner-Game/).
 
 ### Notes:- 
-- If you notice any discrepencies in my game plz contact me at my email bvaibhav1506@gmail.com.
+- If you have any queries, please contact me at my email bvaibhav1506@gmail.com.
 - Since this repository is completed it won't be receiving updates or any new additions. However if you do have any doubts feel free to contact me for the same.
