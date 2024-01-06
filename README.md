@@ -5,7 +5,7 @@ The Tom and Jerry game made in Javascript language featuring the 2 official lead
 1) Code Language: [Javascript](https://en.wikipedia.org/wiki/JavaScript) (99.5%), [HTML](https://en.wikipedia.org/wiki/HTML) (0.5%).
 2) Created Using: [p5.js](https://p5js.org/).
 3) Author : [Vaibhav Bakshi](https://github.com/Vaibhav1506).
-4) Repository Status : Completed **[Inactive]**.
+4) **Repository Status : Completed [Inactive].**
 5) Date Created: 12th September, 2021.
 6) Date Published (on [Github](https://github.com/)): 7th November, 2021.
 7) Last Updated: 4th January 2024.
@@ -32,4 +32,5 @@ If the above steps don't work you can go directly to this link [here](https://va
 
 ### Notes:- 
 - If you have any queries, please contact me at my email bvaibhav1506@gmail.com.
-- Since this repository is completed it won't be receiving updates or any new additions. However if you do have any doubts feel free to contact me for the same.
+- Since this repository is completed it won't be receiving updates or any new additions. So issues and all aren't reviewed here.
+- However if you do have any doubts feel free to contact me for the same.
