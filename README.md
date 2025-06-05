@@ -1,5 +1,5 @@
 # THE TOM AND JERRY INFINITE RUNNER GAME
-The Tom and Jerry game made in Javascript language featuring the 2 official leading characters in the Tom and Jerry Franchise.
+The Tom and Jerry game made in Javascript language using the p5.js game library of JS and featuring the 2 official leading characters in the Tom and Jerry Franchise.
 
 ## Repository Information
 1) Code Language: [Javascript](https://en.wikipedia.org/wiki/JavaScript) (99.5%), [HTML](https://en.wikipedia.org/wiki/HTML) (0.5%).
