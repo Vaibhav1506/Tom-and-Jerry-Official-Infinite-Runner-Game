@@ -23,7 +23,7 @@ The Tom and Jerry game made in Javascript language using the p5.js game library 
 1) Download the zip
 2) Extract it
 3) Open the extracted folder it in any code editor which supports the Javascript(JS) language.
-4) Open the extracted folder in 200OK server chrome extension app.
+4) Open the extracted folder in 200 OK server chrome extension app.
 5) Click on the first link (containing the web address) and it will open it in chrome by default.
 6) The game will begin and you have to just press "Space" key so that tom can jump over obstacles and catch jerry (it is similar to chrome dino game).
 
